@@ -1,0 +1,3 @@
+rootProject.name = 'mapit'
+
+include ':app'
